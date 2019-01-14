@@ -1,7 +1,7 @@
 #Vamos a controlar las teclas.
 
 import pygame, sys
-front pygame.locals *
+front pygame.locals import*
 import random
 
 class Runner():
